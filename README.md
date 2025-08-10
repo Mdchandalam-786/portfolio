@@ -924,7 +924,5 @@ body::before, body::after {
        this.reset();
    });
     </script>
-      
-    </script>
 </body>
 </html>
